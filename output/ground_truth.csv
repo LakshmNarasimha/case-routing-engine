@@ -1,0 +1,517 @@
+anomaly_id,entity_id,anomaly_type,description
+ANOM-00001,TKT-2026-000200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00002,TKT-2026-000250,AGENT_CAPACITY_BREACH,Agent AGT-000086 forced assigned beyond capacity limit of 1
+ANOM-00003,TKT-2026-000300,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00004,TKT-2026-000350,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00005,TKT-2026-000400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00006,TKT-2026-000400,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00007,TKT-2026-000500,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00008,TKT-2026-000600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00009,TKT-2026-000600,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00010,TKT-2026-000700,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00011,TKT-2026-000750,AGENT_CAPACITY_BREACH,Agent AGT-000001 forced assigned beyond capacity limit of 5
+ANOM-00012,TKT-2026-000800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00013,TKT-2026-000800,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00014,TKT-2026-000900,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00015,TKT-2026-001000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00016,TKT-2026-001000,AGENT_CAPACITY_BREACH,Agent AGT-000004 forced assigned beyond capacity limit of 1
+ANOM-00017,TKT-2026-001050,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00018,TKT-2026-001200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00019,TKT-2026-001200,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00020,TKT-2026-001200,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00021,TKT-2026-001250,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00022,TKT-2026-001400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00023,TKT-2026-001400,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00024,TKT-2026-001500,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00025,TKT-2026-001500,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00026,TKT-2026-001600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00027,TKT-2026-001600,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00028,TKT-2026-001750,AGENT_CAPACITY_BREACH,Agent AGT-000004 forced assigned beyond capacity limit of 1
+ANOM-00029,TKT-2026-001750,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00030,TKT-2026-001800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00031,TKT-2026-001800,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00032,TKT-2026-002000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00033,TKT-2026-002000,AGENT_CAPACITY_BREACH,Agent AGT-000009 forced assigned beyond capacity limit of 1
+ANOM-00034,TKT-2026-002000,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00035,TKT-2026-002100,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00036,TKT-2026-002100,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00037,TKT-2026-002200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00038,TKT-2026-002250,AGENT_CAPACITY_BREACH,Agent AGT-000004 forced assigned beyond capacity limit of 1
+ANOM-00039,TKT-2026-002400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00040,TKT-2026-002400,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00041,TKT-2026-002400,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00042,TKT-2026-002450,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00043,TKT-2026-002500,AGENT_CAPACITY_BREACH,Agent AGT-000010 forced assigned beyond capacity limit of 1
+ANOM-00044,TKT-2026-002600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00045,TKT-2026-002700,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00046,TKT-2026-002750,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00047,TKT-2026-002800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00048,TKT-2026-002800,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00049,TKT-2026-002800,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00050,TKT-2026-003000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00051,TKT-2026-003000,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00052,TKT-2026-003000,AGENT_CAPACITY_BREACH,Agent AGT-000068 forced assigned beyond capacity limit of 4
+ANOM-00053,TKT-2026-003150,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00054,TKT-2026-003200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00055,TKT-2026-003200,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00056,TKT-2026-003250,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00057,TKT-2026-003300,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00058,TKT-2026-003400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00059,TKT-2026-003500,AGENT_CAPACITY_BREACH,Agent AGT-000066 forced assigned beyond capacity limit of 1
+ANOM-00060,TKT-2026-003500,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00061,TKT-2026-003600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00062,TKT-2026-003600,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00063,TKT-2026-003600,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00064,TKT-2026-003750,AGENT_CAPACITY_BREACH,Agent AGT-000075 forced assigned beyond capacity limit of 1
+ANOM-00065,TKT-2026-003800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00066,TKT-2026-003850,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00067,TKT-2026-003900,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00068,TKT-2026-004000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00069,TKT-2026-004000,AGENT_CAPACITY_BREACH,Agent AGT-000019 forced assigned beyond capacity limit of 1
+ANOM-00070,TKT-2026-004000,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00071,TKT-2026-004200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00072,TKT-2026-004200,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00073,TKT-2026-004200,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00074,TKT-2026-004250,AGENT_CAPACITY_BREACH,Agent AGT-000019 forced assigned beyond capacity limit of 1
+ANOM-00075,TKT-2026-004400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00076,TKT-2026-004400,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00077,TKT-2026-004500,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00078,TKT-2026-004500,AGENT_CAPACITY_BREACH,Agent AGT-000069 forced assigned beyond capacity limit of 5
+ANOM-00079,TKT-2026-004600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00080,TKT-2026-004750,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00081,TKT-2026-004800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00082,TKT-2026-004800,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00083,TKT-2026-004800,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00084,TKT-2026-004900,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00085,TKT-2026-005000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00086,TKT-2026-005000,AGENT_CAPACITY_BREACH,Agent AGT-000001 forced assigned beyond capacity limit of 5
+ANOM-00087,TKT-2026-005100,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00088,TKT-2026-005200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00089,TKT-2026-005200,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00090,TKT-2026-005250,AGENT_CAPACITY_BREACH,Agent AGT-000010 forced assigned beyond capacity limit of 1
+ANOM-00091,TKT-2026-005250,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00092,TKT-2026-005400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00093,TKT-2026-005400,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00094,TKT-2026-005500,AGENT_CAPACITY_BREACH,Agent AGT-000010 forced assigned beyond capacity limit of 1
+ANOM-00095,TKT-2026-005600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00096,TKT-2026-005600,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00097,TKT-2026-005600,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00098,TKT-2026-005700,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00099,TKT-2026-005750,AGENT_CAPACITY_BREACH,Agent AGT-000073 forced assigned beyond capacity limit of 1
+ANOM-00100,TKT-2026-005800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00101,TKT-2026-005950,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00102,TKT-2026-006000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00103,TKT-2026-006000,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00104,TKT-2026-006000,AGENT_CAPACITY_BREACH,Agent AGT-000001 forced assigned beyond capacity limit of 5
+ANOM-00105,TKT-2026-006000,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00106,TKT-2026-006200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00107,TKT-2026-006250,AGENT_CAPACITY_BREACH,Agent AGT-000075 forced assigned beyond capacity limit of 1
+ANOM-00108,TKT-2026-006300,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00109,TKT-2026-006300,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00110,TKT-2026-006400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00111,TKT-2026-006400,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00112,TKT-2026-006500,AGENT_CAPACITY_BREACH,Agent AGT-000066 forced assigned beyond capacity limit of 1
+ANOM-00113,TKT-2026-006600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00114,TKT-2026-006600,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00115,TKT-2026-006750,AGENT_CAPACITY_BREACH,Agent AGT-000004 forced assigned beyond capacity limit of 1
+ANOM-00116,TKT-2026-006800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00117,TKT-2026-006800,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00118,TKT-2026-006900,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00119,TKT-2026-007000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00120,TKT-2026-007000,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00121,TKT-2026-007000,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00122,TKT-2026-007200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00123,TKT-2026-007200,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00124,TKT-2026-007200,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00125,TKT-2026-007250,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00126,TKT-2026-007400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00127,TKT-2026-007500,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00128,TKT-2026-007500,AGENT_CAPACITY_BREACH,Agent AGT-000006 forced assigned beyond capacity limit of 1
+ANOM-00129,TKT-2026-007600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00130,TKT-2026-007600,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00131,TKT-2026-007700,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00132,TKT-2026-007750,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00133,TKT-2026-007800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00134,TKT-2026-007800,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00135,TKT-2026-008000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00136,TKT-2026-008000,AGENT_CAPACITY_BREACH,Agent AGT-000001 forced assigned beyond capacity limit of 5
+ANOM-00137,TKT-2026-008000,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00138,TKT-2026-008050,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00139,TKT-2026-008100,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00140,TKT-2026-008200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00141,TKT-2026-008250,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00142,TKT-2026-008400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00143,TKT-2026-008400,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00144,TKT-2026-008400,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00145,TKT-2026-008400,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00146,TKT-2026-008500,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00147,TKT-2026-008600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00148,TKT-2026-008700,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00149,TKT-2026-008750,AGENT_CAPACITY_BREACH,Agent AGT-000010 forced assigned beyond capacity limit of 1
+ANOM-00150,TKT-2026-008750,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00151,TKT-2026-008800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00152,TKT-2026-008800,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00153,TKT-2026-009000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00154,TKT-2026-009000,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00155,TKT-2026-009000,AGENT_CAPACITY_BREACH,Agent AGT-000075 forced assigned beyond capacity limit of 1
+ANOM-00156,TKT-2026-009100,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00157,TKT-2026-009200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00158,TKT-2026-009200,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00159,TKT-2026-009250,AGENT_CAPACITY_BREACH,Agent AGT-000009 forced assigned beyond capacity limit of 1
+ANOM-00160,TKT-2026-009300,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00161,TKT-2026-009400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00162,TKT-2026-009450,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00163,TKT-2026-009500,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00164,TKT-2026-009600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00165,TKT-2026-009600,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00166,TKT-2026-009600,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00167,TKT-2026-009750,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00168,TKT-2026-009800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00169,TKT-2026-009900,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00170,TKT-2026-010000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00171,TKT-2026-010000,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00172,TKT-2026-010000,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00173,TKT-2026-010150,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00174,TKT-2026-010200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00175,TKT-2026-010200,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00176,TKT-2026-010250,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00177,TKT-2026-010400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00178,TKT-2026-010500,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00179,TKT-2026-010500,AGENT_CAPACITY_BREACH,Agent AGT-000004 forced assigned beyond capacity limit of 1
+ANOM-00180,TKT-2026-010500,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00181,TKT-2026-010600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00182,TKT-2026-010750,AGENT_CAPACITY_BREACH,Agent AGT-000004 forced assigned beyond capacity limit of 1
+ANOM-00183,TKT-2026-010800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00184,TKT-2026-010800,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00185,TKT-2026-010800,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00186,TKT-2026-010850,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00187,TKT-2026-011000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00188,TKT-2026-011000,AGENT_CAPACITY_BREACH,Agent AGT-000001 forced assigned beyond capacity limit of 5
+ANOM-00189,TKT-2026-011100,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00190,TKT-2026-011200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00191,TKT-2026-011200,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00192,TKT-2026-011200,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00193,TKT-2026-011250,AGENT_CAPACITY_BREACH,Agent AGT-000009 forced assigned beyond capacity limit of 1
+ANOM-00194,TKT-2026-011400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00195,TKT-2026-011400,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00196,TKT-2026-011500,AGENT_CAPACITY_BREACH,Agent AGT-000001 forced assigned beyond capacity limit of 5
+ANOM-00197,TKT-2026-011550,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00198,TKT-2026-011600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00199,TKT-2026-011600,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00200,TKT-2026-011700,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00201,TKT-2026-011750,AGENT_CAPACITY_BREACH,Agent AGT-000019 forced assigned beyond capacity limit of 1
+ANOM-00202,TKT-2026-011800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00203,TKT-2026-012000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00204,TKT-2026-012000,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00205,TKT-2026-012000,AGENT_CAPACITY_BREACH,Agent AGT-000001 forced assigned beyond capacity limit of 5
+ANOM-00206,TKT-2026-012000,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00207,TKT-2026-012200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00208,TKT-2026-012250,AGENT_CAPACITY_BREACH,Agent AGT-000004 forced assigned beyond capacity limit of 1
+ANOM-00209,TKT-2026-012250,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00210,TKT-2026-012300,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00211,TKT-2026-012400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00212,TKT-2026-012400,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00213,TKT-2026-012500,AGENT_CAPACITY_BREACH,Agent AGT-000067 forced assigned beyond capacity limit of 4
+ANOM-00214,TKT-2026-012600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00215,TKT-2026-012600,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00216,TKT-2026-012600,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00217,TKT-2026-012750,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00218,TKT-2026-012800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00219,TKT-2026-012800,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00220,TKT-2026-012900,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00221,TKT-2026-012950,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00222,TKT-2026-013000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00223,TKT-2026-013000,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00224,TKT-2026-013200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00225,TKT-2026-013200,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00226,TKT-2026-013200,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00227,TKT-2026-013250,AGENT_CAPACITY_BREACH,Agent AGT-000004 forced assigned beyond capacity limit of 1
+ANOM-00228,TKT-2026-013300,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00229,TKT-2026-013400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00230,TKT-2026-013500,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00231,TKT-2026-013500,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00232,TKT-2026-013600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00233,TKT-2026-013600,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00234,TKT-2026-013650,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00235,TKT-2026-013750,AGENT_CAPACITY_BREACH,Agent AGT-000010 forced assigned beyond capacity limit of 1
+ANOM-00236,TKT-2026-013800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00237,TKT-2026-013800,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00238,TKT-2026-014000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00239,TKT-2026-014000,AGENT_CAPACITY_BREACH,Agent AGT-000075 forced assigned beyond capacity limit of 1
+ANOM-00240,TKT-2026-014000,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00241,TKT-2026-014000,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00242,TKT-2026-014100,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00243,TKT-2026-014200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00244,TKT-2026-014250,AGENT_CAPACITY_BREACH,Agent AGT-000009 forced assigned beyond capacity limit of 1
+ANOM-00245,TKT-2026-014350,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00246,TKT-2026-014400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00247,TKT-2026-014400,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00248,TKT-2026-014400,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00249,TKT-2026-014500,AGENT_CAPACITY_BREACH,Agent AGT-000075 forced assigned beyond capacity limit of 1
+ANOM-00250,TKT-2026-014600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00251,TKT-2026-014700,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00252,TKT-2026-014750,AGENT_CAPACITY_BREACH,Agent AGT-000010 forced assigned beyond capacity limit of 1
+ANOM-00253,TKT-2026-014800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00254,TKT-2026-014800,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00255,TKT-2026-015000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00256,TKT-2026-015000,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00257,TKT-2026-015000,AGENT_CAPACITY_BREACH,Agent AGT-000009 forced assigned beyond capacity limit of 1
+ANOM-00258,TKT-2026-015200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00259,TKT-2026-015200,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00260,TKT-2026-015250,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00261,TKT-2026-015300,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00262,TKT-2026-015400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00263,TKT-2026-015400,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00264,TKT-2026-015500,AGENT_CAPACITY_BREACH,Agent AGT-000019 forced assigned beyond capacity limit of 1
+ANOM-00265,TKT-2026-015600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00266,TKT-2026-015600,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00267,TKT-2026-015600,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00268,TKT-2026-015750,AGENT_CAPACITY_BREACH,Agent AGT-000010 forced assigned beyond capacity limit of 1
+ANOM-00269,TKT-2026-015750,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00270,TKT-2026-015800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00271,TKT-2026-015900,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00272,TKT-2026-016000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00273,TKT-2026-016000,AGENT_CAPACITY_BREACH,Agent AGT-000019 forced assigned beyond capacity limit of 1
+ANOM-00274,TKT-2026-016000,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00275,TKT-2026-016100,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00276,TKT-2026-016200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00277,TKT-2026-016200,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00278,TKT-2026-016250,AGENT_CAPACITY_BREACH,Agent AGT-000073 forced assigned beyond capacity limit of 1
+ANOM-00279,TKT-2026-016400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00280,TKT-2026-016450,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00281,TKT-2026-016500,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00282,TKT-2026-016500,AGENT_CAPACITY_BREACH,Agent AGT-000004 forced assigned beyond capacity limit of 1
+ANOM-00283,TKT-2026-016600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00284,TKT-2026-016750,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00285,TKT-2026-016800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00286,TKT-2026-016800,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00287,TKT-2026-016800,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00288,TKT-2026-016800,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00289,TKT-2026-017000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00290,TKT-2026-017000,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00291,TKT-2026-017100,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00292,TKT-2026-017150,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00293,TKT-2026-017200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00294,TKT-2026-017200,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00295,TKT-2026-017250,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00296,TKT-2026-017400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00297,TKT-2026-017400,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00298,TKT-2026-017500,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00299,TKT-2026-017500,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00300,TKT-2026-017600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00301,TKT-2026-017600,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00302,TKT-2026-017700,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00303,TKT-2026-017750,AGENT_CAPACITY_BREACH,Agent AGT-000001 forced assigned beyond capacity limit of 5
+ANOM-00304,TKT-2026-017800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00305,TKT-2026-017850,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00306,TKT-2026-018000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00307,TKT-2026-018000,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00308,TKT-2026-018000,AGENT_CAPACITY_BREACH,Agent AGT-000010 forced assigned beyond capacity limit of 1
+ANOM-00309,TKT-2026-018000,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00310,TKT-2026-018200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00311,TKT-2026-018200,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00312,TKT-2026-018250,AGENT_CAPACITY_BREACH,Agent AGT-000001 forced assigned beyond capacity limit of 5
+ANOM-00313,TKT-2026-018300,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00314,TKT-2026-018400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00315,TKT-2026-018400,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00316,TKT-2026-018500,AGENT_CAPACITY_BREACH,Agent AGT-000004 forced assigned beyond capacity limit of 1
+ANOM-00317,TKT-2026-018550,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00318,TKT-2026-018600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00319,TKT-2026-018600,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00320,TKT-2026-018750,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00321,TKT-2026-018800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00322,TKT-2026-018800,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00323,TKT-2026-018900,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00324,TKT-2026-018900,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00325,TKT-2026-019000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00326,TKT-2026-019000,AGENT_CAPACITY_BREACH,Agent AGT-000001 forced assigned beyond capacity limit of 5
+ANOM-00327,TKT-2026-019200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00328,TKT-2026-019200,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00329,TKT-2026-019200,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00330,TKT-2026-019250,AGENT_CAPACITY_BREACH,Agent AGT-000001 forced assigned beyond capacity limit of 5
+ANOM-00331,TKT-2026-019250,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00332,TKT-2026-019400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00333,TKT-2026-019500,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00334,TKT-2026-019500,AGENT_CAPACITY_BREACH,Agent AGT-000075 forced assigned beyond capacity limit of 1
+ANOM-00335,TKT-2026-019600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00336,TKT-2026-019600,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00337,TKT-2026-019600,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00338,TKT-2026-019750,AGENT_CAPACITY_BREACH,Agent AGT-000075 forced assigned beyond capacity limit of 1
+ANOM-00339,TKT-2026-019800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00340,TKT-2026-019800,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00341,TKT-2026-019950,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00342,TKT-2026-020000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00343,TKT-2026-020000,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00344,TKT-2026-020000,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00345,TKT-2026-020100,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00346,TKT-2026-020200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00347,TKT-2026-020250,AGENT_CAPACITY_BREACH,Agent AGT-000075 forced assigned beyond capacity limit of 1
+ANOM-00348,TKT-2026-020300,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00349,TKT-2026-020400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00350,TKT-2026-020400,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00351,TKT-2026-020400,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00352,TKT-2026-020500,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00353,TKT-2026-020600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00354,TKT-2026-020650,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00355,TKT-2026-020700,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00356,TKT-2026-020750,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00357,TKT-2026-020800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00358,TKT-2026-020800,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00359,TKT-2026-021000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00360,TKT-2026-021000,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00361,TKT-2026-021000,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00362,TKT-2026-021000,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00363,TKT-2026-021200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00364,TKT-2026-021200,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00365,TKT-2026-021250,AGENT_CAPACITY_BREACH,Agent AGT-000075 forced assigned beyond capacity limit of 1
+ANOM-00366,TKT-2026-021300,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00367,TKT-2026-021350,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00368,TKT-2026-021400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00369,TKT-2026-021500,AGENT_CAPACITY_BREACH,Agent AGT-000067 forced assigned beyond capacity limit of 4
+ANOM-00370,TKT-2026-021600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00371,TKT-2026-021600,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00372,TKT-2026-021600,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00373,TKT-2026-021700,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00374,TKT-2026-021750,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00375,TKT-2026-021800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00376,TKT-2026-021900,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00377,TKT-2026-022000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00378,TKT-2026-022000,AGENT_CAPACITY_BREACH,Agent AGT-000001 forced assigned beyond capacity limit of 5
+ANOM-00379,TKT-2026-022000,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00380,TKT-2026-022050,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00381,TKT-2026-022200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00382,TKT-2026-022200,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00383,TKT-2026-022250,AGENT_CAPACITY_BREACH,Agent AGT-000010 forced assigned beyond capacity limit of 1
+ANOM-00384,TKT-2026-022400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00385,TKT-2026-022400,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00386,TKT-2026-022400,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00387,TKT-2026-022500,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00388,TKT-2026-022500,AGENT_CAPACITY_BREACH,Agent AGT-000067 forced assigned beyond capacity limit of 4
+ANOM-00389,TKT-2026-022600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00390,TKT-2026-022750,AGENT_CAPACITY_BREACH,Agent AGT-000019 forced assigned beyond capacity limit of 1
+ANOM-00391,TKT-2026-022750,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00392,TKT-2026-022800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00393,TKT-2026-022800,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00394,TKT-2026-022800,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00395,TKT-2026-023000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00396,TKT-2026-023000,AGENT_CAPACITY_BREACH,Agent AGT-000012 forced assigned beyond capacity limit of 1
+ANOM-00397,TKT-2026-023100,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00398,TKT-2026-023100,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00399,TKT-2026-023200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00400,TKT-2026-023200,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00401,TKT-2026-023250,AGENT_CAPACITY_BREACH,Agent AGT-000010 forced assigned beyond capacity limit of 1
+ANOM-00402,TKT-2026-023400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00403,TKT-2026-023400,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00404,TKT-2026-023450,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00405,TKT-2026-023500,AGENT_CAPACITY_BREACH,Agent AGT-000086 forced assigned beyond capacity limit of 1
+ANOM-00406,TKT-2026-023600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00407,TKT-2026-023700,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00408,TKT-2026-023750,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00409,TKT-2026-023800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00410,TKT-2026-023800,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00411,TKT-2026-024000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00412,TKT-2026-024000,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00413,TKT-2026-024000,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00414,TKT-2026-024000,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00415,TKT-2026-024150,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00416,TKT-2026-024200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00417,TKT-2026-024250,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00418,TKT-2026-024300,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00419,TKT-2026-024400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00420,TKT-2026-024400,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00421,TKT-2026-024500,AGENT_CAPACITY_BREACH,Agent AGT-000004 forced assigned beyond capacity limit of 1
+ANOM-00422,TKT-2026-024500,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00423,TKT-2026-024600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00424,TKT-2026-024600,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00425,TKT-2026-024750,AGENT_CAPACITY_BREACH,Agent AGT-000069 forced assigned beyond capacity limit of 5
+ANOM-00426,TKT-2026-024800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00427,TKT-2026-024800,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00428,TKT-2026-024850,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00429,TKT-2026-024900,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00430,TKT-2026-025000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00431,TKT-2026-025000,AGENT_CAPACITY_BREACH,Agent AGT-000004 forced assigned beyond capacity limit of 1
+ANOM-00432,TKT-2026-025200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00433,TKT-2026-025200,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00434,TKT-2026-025200,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00435,TKT-2026-025200,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00436,TKT-2026-025250,AGENT_CAPACITY_BREACH,Agent AGT-000073 forced assigned beyond capacity limit of 1
+ANOM-00437,TKT-2026-025400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00438,TKT-2026-025500,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00439,TKT-2026-025500,AGENT_CAPACITY_BREACH,Agent AGT-000001 forced assigned beyond capacity limit of 5
+ANOM-00440,TKT-2026-025600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00441,TKT-2026-025600,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00442,TKT-2026-025750,AGENT_CAPACITY_BREACH,Agent AGT-000068 forced assigned beyond capacity limit of 4
+ANOM-00443,TKT-2026-025800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00444,TKT-2026-025800,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00445,TKT-2026-025900,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00446,TKT-2026-026000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00447,TKT-2026-026000,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00448,TKT-2026-026000,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00449,TKT-2026-026100,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00450,TKT-2026-026200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00451,TKT-2026-026250,AGENT_CAPACITY_BREACH,Agent AGT-000010 forced assigned beyond capacity limit of 1
+ANOM-00452,TKT-2026-026250,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00453,TKT-2026-026400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00454,TKT-2026-026400,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00455,TKT-2026-026400,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00456,TKT-2026-026500,AGENT_CAPACITY_BREACH,Agent AGT-000001 forced assigned beyond capacity limit of 5
+ANOM-00457,TKT-2026-026600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00458,TKT-2026-026600,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00459,TKT-2026-026700,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00460,TKT-2026-026750,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00461,TKT-2026-026800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00462,TKT-2026-026800,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00463,TKT-2026-026950,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00464,TKT-2026-027000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00465,TKT-2026-027000,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00466,TKT-2026-027000,AGENT_CAPACITY_BREACH,Agent AGT-000009 forced assigned beyond capacity limit of 1
+ANOM-00467,TKT-2026-027200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00468,TKT-2026-027200,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00469,TKT-2026-027250,AGENT_CAPACITY_BREACH,Agent AGT-000010 forced assigned beyond capacity limit of 1
+ANOM-00470,TKT-2026-027300,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00471,TKT-2026-027400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00472,TKT-2026-027500,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00473,TKT-2026-027600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00474,TKT-2026-027600,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00475,TKT-2026-027600,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00476,TKT-2026-027650,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00477,TKT-2026-027750,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00478,TKT-2026-027800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00479,TKT-2026-027900,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00480,TKT-2026-028000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00481,TKT-2026-028000,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00482,TKT-2026-028000,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00483,TKT-2026-028000,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00484,TKT-2026-028200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00485,TKT-2026-028200,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00486,TKT-2026-028250,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00487,TKT-2026-028350,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00488,TKT-2026-028400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00489,TKT-2026-028400,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00490,TKT-2026-028500,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00491,TKT-2026-028500,AGENT_CAPACITY_BREACH,Agent AGT-000010 forced assigned beyond capacity limit of 1
+ANOM-00492,TKT-2026-028600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00493,TKT-2026-028700,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00494,TKT-2026-028750,AGENT_CAPACITY_BREACH,Agent AGT-000001 forced assigned beyond capacity limit of 5
+ANOM-00495,TKT-2026-028800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00496,TKT-2026-028800,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00497,TKT-2026-028800,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00498,TKT-2026-029000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00499,TKT-2026-029000,AGENT_CAPACITY_BREACH,Agent AGT-000010 forced assigned beyond capacity limit of 1
+ANOM-00500,TKT-2026-029100,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00501,TKT-2026-029200,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00502,TKT-2026-029200,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
+ANOM-00503,TKT-2026-029250,AGENT_CAPACITY_BREACH,Agent AGT-000019 forced assigned beyond capacity limit of 1
+ANOM-00504,TKT-2026-029400,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00505,TKT-2026-029400,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00506,TKT-2026-029400,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00507,TKT-2026-029500,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00508,TKT-2026-029600,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00509,TKT-2026-029700,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00510,TKT-2026-029750,AGENT_CAPACITY_BREACH,Agent AGT-000002 forced assigned beyond capacity limit of 1
+ANOM-00511,TKT-2026-029750,TRANSFER_LOOP,Ticket bounced between identical agents within 20 mins
+ANOM-00512,TKT-2026-029800,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00513,TKT-2026-030000,PRIORITY_SAFETY_VIOLATION,Critical VIP ticket routed with Low priority
+ANOM-00514,TKT-2026-030000,SLA_CALENDAR_IGNORED,Email SLA calculated without business hour restrictions
+ANOM-00515,TKT-2026-030000,AGENT_CAPACITY_BREACH,Agent AGT-000003 forced assigned beyond capacity limit of 5
+ANOM-00516,TKT-2026-030000,REOPEN_LOST_HISTORY,Ticket reopened with wiped audit references
